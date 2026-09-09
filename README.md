@@ -23,7 +23,11 @@ Yes, the revenue forecast shows strong evidence of seasonality.
 Year End Spike: Revenue peaks sharply at the end of the year, reaching a high of 2,75,624 in December 2025.
 Post-Holiday Drop: Every January encounters a massive cyclical drop, plunging to 1,93,614 in January 2026 before steadily recovering throughout the spring and summer months.
 **CAC vs. LTV:** How long does it take for the 2024 and 2025 cohorts to recover their customer acquisition cost?
-For the  2024 cohort, it takes 12 months to recover their customer acquisition cost (CAC).The Cumulative revenue (LTV) curve crosses their line between month 11 (841,650) 
-and month 12 (893,655) meaning the acquistion cost is fully recovered by month 12.
-For the 2025 cohort, it takes between 4 and 5 month to fully recover the customer acquisition cost. At month 4, the cumulative LTV is 1,054806 which is just below the CAC line. 
-By month 5, the cumulative LTV rises to 1,140299 crossingabove the CAC line to achieve full payback.
+For the  2024 cohort,Initial Revenue (Month 0): 1,41,895 (below the 1,74,698 Total CAC threshold)
+Month 1 Cumulative Revenue: 2,61,182 (exceeds the 1,74,698 Total CAC threshold)
+The 2024 cohort recovers its customer acquisition cost within Month 1 (between Month 0 and Month 1).
+For the 2025 cohort,
+Total CAC Baseline: 379,698 (indicated by the reference line label Average Total CAC = 379,698)
+Month 0 Cumulative Revenue: 3,24,669 (below the 3,79,698 threshold)
+Month 1 Cumulative Revenue: 6,02,029 (exceeds the 3,79,698 threshold)
+The 2025 cohort recovers its customer acquisition cost within Month 1 (between Month 0 and Month 1)
